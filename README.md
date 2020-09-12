@@ -1,7 +1,9 @@
 # Operator-Notepad
 
 There are 2 files: 
+
 •	OperatorNotepadApp_20200912000411.zip is the Exported app package.
+
 •	OperatorNotepadAppProvisioner_20200911235826 (1).zip is a Power Automate flow to create the necessary lists that are used by the app.
 
 To set it all up:
